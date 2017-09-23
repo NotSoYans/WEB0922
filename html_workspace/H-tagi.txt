@@ -1,0 +1,31 @@
+<html>
+
+<head>
+ <title>Retard station</title>
+ <meta charset="UTF-8" />
+</head>
+
+<body>
+
+ <H1 id="pirmais" onclick="var adr = getElementById(treshais);laacis(adr);">
+ Touch meh, pls
+ </H1>
+
+ <H2 id="otrais" onclick="laacis(this)">
+ Pls. dont bee mean...
+ </H2>
+
+ <div id="treshais" onclick="laacis(this)">
+ pls, notice.
+ </div>
+
+</body>
+
+<script>
+ function laacis(obj) {
+	var adr = document.getElementById(obj);
+	obj.innerHTML='OHH SEMPAI... :*'
+ }
+</script>
+
+</html>

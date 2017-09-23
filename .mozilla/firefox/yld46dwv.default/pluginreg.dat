@@ -1,0 +1,15 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version:0.18t:$
+Arch:x86_64-gcc3:$
+
+[PLUGINS]
+
+[INVALID]
+/usr/lib/mozilla/plugins/libgnome-shell-browser-plugin.so:$
+1334726080000:$
+/usr/lib/mozilla/plugins/librhythmbox-itms-detection-plugin.so:$
+1371765542000:$
+/usr/lib/jvm/java-7-oracle/jre/lib/amd64/libnpjp2.so:$
+1450439110000:$

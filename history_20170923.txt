@@ -1,0 +1,182 @@
+    1  ls
+    2  mkdir public_html
+    3  ls
+    4  cd public_html
+    5  nano yo.txt
+    6  gedit index.html
+    7  idle screp.py &
+    8  python gen.py >> index.html
+    9  logout
+   10  ls
+   11  cd public_html
+   12  ls
+   13  rm 'index_v1 html.txt'
+   14  ls
+   15  wget --no-check-sertificate- <H1 onclick="click(this)">
+   16  wget https://s-media-cache-ak0.pinimg.com/564x/dc/fd/85/dcfd85d8f718b30550caf74fdbcfb2f7.jpg
+   17  wget http://angelgrrl.com/wp-content/uploads/20150421-happy-husky.jpg
+   18  ls
+   19  mv 20150421-happy-husky.jpg happy.jpg
+   20  mv dcfd85d8f718b30550caf74fdbcfb2f7.jpg grumpy.jpg
+   21  ls
+   22  gedit &
+   23  ls
+   24  logout
+   25  ls
+   26  cd public_html
+   27  ls
+   28  gedit hailo.html
+   29  ls
+   30  logout
+   31  cd public_html/ajax
+   32  ls
+   33  netstat -taupen
+   34  logout
+   35  ls
+   36  public_html
+   37  cd public_html
+   38  ls
+   39  cd ./
+   40  cd ../
+   41  rm public_html html_worksapce
+   42  mv public_html html_worksapce
+   43  mkdir public_html
+   44  cd html_worksapce
+   45  cd ../
+   46  mv html_worksapce html_workspace
+   47  ls
+   48  mkdir ajax
+   49  cd ajax
+   50  gedit frontend.html &
+   51  idle backend.py
+   52  ls
+   53  idle &
+   54  ls
+   55  python backend.py
+   56  netstat -taupen
+   57  python backend.py
+   58  ls
+   59  cd ../
+   60  ls
+   61  cd public_html
+   62  ls
+   63  cd ../
+   64  cd ajax
+   65  ls
+   66  cd ../
+   67  mvdir ajax ./public_html
+   68  dir
+   69  pwd
+   70  mv ./ajax ./public_html /home/x161REB133
+   71  mv ./ajax ./public_html/ajax
+   72  ls
+   73  cd public_html
+   74  ls
+   75  cd ajax
+   76  ls
+   77  python backend.py
+   78  ls
+   79  cd html_workspace
+   80  ls
+   81  idle screp.py
+   82  gedit index.html
+   83  cp ./index.html /public_html/index.html
+   84  cp ./index.html public_html/index.html
+   85  cp ./index.html ./public_html/index.html
+   86  cp ./index.html ./public_html
+   87  ls /public_html/index.html
+   88  ls ./public_html/index.html
+   89  cd ../
+   90  cd public_html
+   91  ls
+   92  cd ../
+   93  ls
+   94  gedit ./html_worlspace/index.html
+   95  cd html_workspace
+   96  ls
+   97  cp grumpy.jpg /index_html
+   98  cp grumpy.jpg /index_html/
+   99  cp grumpy.jpg ./index_html/
+  100  cp grumpy.jpg x161REB133/index_html/
+  101  ls
+  102  cd /html_workspace
+  103  cd html_workspace
+  104  ls
+  105  cd ../public_html
+  106  ls
+  107  cd ../
+  108  ls
+  109  pwd
+  110  mv ./public_html ./public_html2
+  111  ls
+  112  cp -r ./html_workspace ./public_html
+  113  ls
+  114  cd public_html
+  115  ls
+  116  cd ./
+  117  ls
+  118  rm -rf public_html
+  119  ls
+  120  cd ../
+  121  ls
+  122  rm -rf public_html
+  123  logoff
+  124  ls
+  125  logoff
+  126  quit
+  127  man ssh
+  128  exit
+  129  ls
+  130  mkdir public_html
+  131  gedit index.html
+  132  quit
+  133  kill
+  134  kill ssh
+  135  kill ssh -1
+  136  cat /etc/*-release
+  137  kill ssh -1
+  138  ls
+  139  cd public_html
+  140  ls
+  141  subl index.html
+  142  mkdir test
+  143  ls
+  144  cp ./index.html ./index.html
+  145  cp ./index.html ./test/index.html
+  146  ls
+  147  $ gedit index.html
+  148  gedit index.html
+  149  cd ./public_html/test
+  150  ls
+  151  gedit index.html
+  152  cat index.html
+  153  cd public_html
+  154  gedit index.html
+  155  subl index.html
+  156  cat /etc/*-release
+  157  lab_release
+  158  lsb_release
+  159  uname -r
+  160  uname -m
+  161  firefox
+  162  echo "# WEB0922" >> README.md
+  163  ls
+  164  cd Downloads
+  165  ls
+  166  cd ../
+  167  rm -rf Downloads
+  168  cd Desktop
+  169  ls
+  170  cd ../
+  171  ls
+  172  rm Desktop
+  173  rmdir Destop
+  174  rmdir Desktop
+  175  ls
+  176  cat README.dm
+  177  cat README.md
+  178  echo "This is a WIP website project that I'm using in order to learn more about WebDev." >> README.md
+  179  cat README.md
+  180  history >ls
+  181  ls
+  182  history > history_20170923.txt
