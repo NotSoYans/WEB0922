@@ -20,10 +20,13 @@
 			"buffers":
 			[
 				{
+					"contents": "<!DOCTYPE html>\n<meta charset=\"UTF-8\"/>\n<html>\n	<head>\n		<title>This is a Trainwreak</title>\n	</head>\n	<body>\n	<!-- I seriously should just do something interesting with this thing -->\n	<!-- Comment can also be used for experiments with new code by hiding old code. -->\n		<h1>Testo, Testo</h1>\n		<p>Learning HTML and shit<br />IT'S FUN LOL</p>\n	</body>\n</html>\n",
 					"file": "/home/x161REB133/public_html/index.html",
+					"file_size": 201,
+					"file_write_time": 131505849483829800,
 					"settings":
 					{
-						"buffer_size": 178,
+						"buffer_size": 361,
 						"line_ending": "Unix"
 					}
 				}
@@ -55,6 +58,9 @@
 			},
 			"file_history":
 			[
+				"/home/x161REB133/public_html/test/index.html",
+				"/home/x161REB133/gitUL",
+				"/home/x161REB133/gitDL"
 			],
 			"find":
 			{
@@ -98,15 +104,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 178,
+								"buffer_size": 361,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										129,
-										129
+										265,
+										265
 									]
 								],
 								"settings":
@@ -158,7 +164,7 @@
 			{
 				"height": 0.0
 			},
-			"position": "0,0,0,0,0,353,123,993,603,1366,768",
+			"position": "0,0,0,0,0,0,0,682,742,1366,768",
 			"project": "",
 			"replace":
 			{

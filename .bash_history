@@ -159,3 +159,39 @@ lsb_release
 uname -r
 uname -m
 firefox
+echo "# WEB0922" >> README.md
+ls
+cd Downloads
+ls
+cd ../
+rm -rf Downloads
+cd Desktop
+ls
+cd ../
+ls
+rm Desktop
+rmdir Destop
+rmdir Desktop
+ls
+cat README.dm
+cat README.md
+echo "This is a WIP website project that I'm using in order to learn more about WebDev." >> README.md
+cat README.md
+history >ls
+ls
+history > history_20170923.txt
+gedit history_20170923.txt
+gedit & history_20170923.txt
+ls
+cat ls
+rm ls
+ls
+git init
+git add .
+git commit -m "20170923_first_commit"
+ls -la
+git remote add origin https://github.com/NotSoYans/WEB0922.git
+git push -u origin master
+pwd
+subl gitDL
+subl gitUL
