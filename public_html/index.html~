@@ -1,10 +1,37 @@
 <!DOCTYPE html>
 <meta charset="UTF-8"/>
+
 <html>
 	<head>
-		<title>This is a Trainwreak</title>
+		<title>This is a Trainwerk</title>
 	</head>
 	<body>
-		<p>Nemācos nehuja un HTML!<br />IT'S FUN LOL</p>
+		<nav>
+      <a href="index.html">Home</a>
+			<a href="testoPesto.html">Testo Pesto</a>
+      <a href="aboutMe.html">About Me</a>
+		</nav>
+    <nav>
+			<a href="#soonTM">Soon&trade;</a>
+			<a href="#bullshit">Something</a>
+    </nav>
+    <br />
+    <h1>The Home of Learning and Self-discovery <strong>:O</strong> </h1>
+    <div id="bullshit">
+      <p>At the moment I'm just trying out <em>basic ass</em> HTML code, so there's not much to see.</p>
+    </div>
+    <div id="soonTM">
+		  <p>This is a total work in progress
+        <br />Don't mind the rough edges
+        <br />Planned shit:
+          <ul>
+            <li>make this crap beautiful</li>
+            <li>expand some shit</li>
+            <li><em>maybe</em> find a meaning in life</li>
+          </ul>
+        <br />NEW STUFF PLANNED TO APPEAR: 
+        <a href=https://www.youtube.com/watch?v=cU8HrO7XuiE><strong><em>Soon&trade;</em></strong></a>
+      </p>
+    </div>
 	</body>
-</html>
+</html> 

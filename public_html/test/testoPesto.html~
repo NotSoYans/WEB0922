@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>TE5T0 P35T0</title>
+  </head>
+  <body>
+    <nav>
+      <a href="/">Home</a>
+      <a href="aboutMe.html">About Me</a>
+    </nav>
+    <br />
+    <h1>TE5T0 P35T0</h1>
+    <p>This is a test page for random ass bull...
+      <br />Main page should look nice, this stuff...
+      <br /><em>NOT SO MUCH ;)</em>
+    </p>
+  </body>
+</html>

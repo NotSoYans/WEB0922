@@ -5,6 +5,26 @@
 		<title>This is a Trainwerk</title>
 	</head>
 	<body>
-		<p>Mācos CEDU un HTML<br />IT'S FUN LOL</p>
+		<nav>
+      <a href="index.html">Home</a>
+			<a href="testoPesto.html">Testo Pesto</a>
+      <a href="aboutMe.html">About Me</a>
+		</nav>
+    <nav>
+			<a href="#soonTM">Soon&trade;</a>
+			<a href="#bullshit">Something</a>
+    </nav>
+    <br />
+    <h1>The Home Of Learning and Self-discovery :O
+    <div id="bullshit">
+      <p>At the moment I'm just trying out basic ass HTML code, so there's not much to see.</p>
+    </div>
+    <div id="soonTM">
+		  <p>This is a total work in progress
+        <br />Don't mind the rough edges
+        <br />NEW STUFF PLANNED TO APPEAR: 
+        <a href=https://www.youtube.com/watch?v=cU8HrO7XuiE>Soon&trade;</a>
+      </p>
+    </div>
 	</body>
-</html>
+</html> 

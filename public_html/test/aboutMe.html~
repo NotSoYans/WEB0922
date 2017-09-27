@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+<!-- This is modified copy of Codecademy About Me page code -->
+  <head>
+    <title>Who Am I???</title>
+  </head>
+  <body>
+    <nav>
+      <a href="index.html">Soon&trade;</a>
+      <!-- web browsers respond to index.html and / the same way -->
+      <a href="testoPesto.html">Testo Pesto</a>
+    </nav>
+    <br />
+    <h1>About Me</h1>
+    <h3>Michael Doliner</h3>
+    <img src="mahFace.png" height=50% />
+    <br />
+    <!-- A section that describes the brown bear -->
+    <p>Hey, my name is NotSoYans, also known as John, or simply a Potato! Basically I'm a 23 year-old jackass who is trying to learn some new shit, so I'm learning some programming stuff and shit  <br /> <br />
+
+  	Hopeful to reach something great,  <br /> <br />
+    NotSoYans
+
+    </p>
+  </body>
+</html>
+
