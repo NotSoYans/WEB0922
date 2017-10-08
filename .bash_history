@@ -195,3 +195,93 @@ git push -u origin master
 pwd
 subl gitDL
 subl gitUL
+cd ./public_html/
+cd test
+ls
+subl index.html
+cd ../../
+cd ./public_html/
+cd ~/
+ls
+gedit history_20170923.txt 
+echo "Don't for the love of god try to do stuff on the fucking server. That shit is slow." >> README.md
+gedit gitUL
+~/gitUL
+ls -l
+chmod 744 gitUL
+chmod 744 gitDL
+ls -l
+~/gitUL
+echo "At least on bloody sublime. :/ " >> README.md
+gedit ./public_html/test/index.html
+gedit &
+firefox
+gedit history_20170923.txt 
+wget --no-check-sertificate- <H1 onclick="click(this)">
+wget https://drive.google.com/uc?export=download&id=0B-BKMbiuOExRbGh4RXRMYjUwcW8
+wget https://i.gyazo.com/fa324d2c11c6e167ba7ce219fa960505.png
+ls
+mv fa324d2c11c6e167ba7ce219fa960505.png mahFace.png
+ls
+mv mahFace.png ./public_html/test/mahFace.png
+cd ./public_html/test/
+ls
+gedit
+gedit &
+ls
+cd ./public_html
+mv ./test/testoPesto.html ./testoPesto.html
+ls
+gedit index.html~
+history > history_20170926.txt 
+mkdir history dumps
+mv history_20170923.txt ./history_20170923.txt
+mv history_20170923.txt ./"history dumps"/history_20170923.txt
+ls
+rmdir history dumps
+ls
+mkdir history_dumps
+ls
+gedit index.html
+rm index.html index.html~
+ls
+mv history_20170923.txt ./history_dumps/history_20170923.txt
+mv history_20170926.txt ./history_dumps/history_20170926.txt
+ls
+cd history_dumps
+ls
+cd ../
+cd html_workspace
+ls
+cd ../
+cd public_html2
+ls
+cd ../
+ls
+mv html_workspace ./public_html/html_workspace
+ls
+mv public_html2 ./public_html/test2
+ls
+cd public_html
+ls
+gedit index.html
+gedit ./test/index.html
+rm index.html index.html~
+mv ./test/index.html ./index.html
+ls
+cd test
+ls
+mv mahFace.png ../mahFace.png
+mv aboutMe.html ../aboutMe.html
+cd ../
+ls
+pwd
+gedit index.html
+gedit
+cd public_html
+ls
+gedit index.html
+gitUL
+../gitUL
+gedit $
+gedit &

@@ -3,7 +3,7 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/x161REB133/index.html" added="2017-09-12T11:40:02Z" modified="2017-09-12T12:02:31Z" visited="2017-09-12T11:40:03Z">
+  <bookmark href="file:///home/x161REB133/index.html" added="2017-09-12T11:40:02Z" modified="2017-09-26T19:40:41Z" visited="2017-09-12T11:40:03Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
@@ -11,12 +11,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-12T12:02:31Z" count="4"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-26T19:40:41Z" count="5"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/x161REB133/public_html/index.html" added="2017-09-12T12:03:58Z" modified="2017-09-22T20:15:48Z" visited="2017-09-12T12:03:59Z">
+  <bookmark href="file:///home/x161REB133/public_html/index.html" added="2017-09-12T12:03:58Z" modified="2017-10-04T16:27:02Z" visited="2017-09-12T12:03:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
@@ -24,12 +24,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-22T20:15:48Z" count="8"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-04T16:27:02Z" count="25"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/x161REB133/public_html/test/index.html" added="2017-09-20T21:48:51Z" modified="2017-09-21T05:02:18Z" visited="2017-09-20T21:48:51Z">
+  <bookmark href="file:///home/x161REB133/public_html/test/index.html" added="2017-09-20T21:48:51Z" modified="2017-09-26T19:58:39Z" visited="2017-09-20T21:48:51Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
@@ -37,7 +37,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-21T05:02:18Z" count="5"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-26T19:58:39Z" count="18"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -53,7 +53,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/x161REB133/history_20170923.txt" added="2017-09-23T07:54:09Z" modified="2017-09-26T10:05:20Z" visited="2017-09-23T07:54:09Z">
+  <bookmark href="file:///home/x161REB133/history_20170923.txt" added="2017-09-23T07:54:09Z" modified="2017-09-26T13:45:59Z" visited="2017-09-23T07:54:09Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
@@ -61,12 +61,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-26T10:05:20Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-26T13:45:59Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/x161REB133/gitUL" added="2017-09-26T10:08:00Z" modified="2017-09-26T10:08:56Z" visited="2017-09-26T10:08:01Z">
+  <bookmark href="file:///home/x161REB133/gitUL" added="2017-09-26T10:08:00Z" modified="2017-10-08T10:01:02Z" visited="2017-09-26T10:08:01Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-shellscript"/>
@@ -74,7 +74,124 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-26T10:08:56Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-08T10:01:02Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/x161REB133/public_html/test/testoPesto.html" added="2017-09-26T11:58:44Z" modified="2017-09-26T20:20:08Z" visited="2017-09-26T11:58:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-26T20:20:08Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/x161REB133/public_html/test/aboutMe.html" added="2017-09-26T12:17:09Z" modified="2017-09-26T14:39:52Z" visited="2017-09-26T12:17:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-26T14:39:52Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/x161REB133/public_html/aboutMe.html" added="2017-09-26T20:20:15Z" modified="2017-09-27T06:59:14Z" visited="2017-09-26T20:20:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-27T06:59:14Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/x161REB133/public_html/index.html~" added="2017-09-26T20:30:39Z" modified="2017-09-26T20:30:39Z" visited="2017-09-26T20:30:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-trash"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-26T20:30:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/x161REB133/public_html/testoPesto.html" added="2017-09-26T20:32:19Z" modified="2017-10-04T12:44:07Z" visited="2017-09-26T20:32:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-04T12:44:07Z" count="16"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/x161REB133/gitDL" added="2017-09-27T06:46:48Z" modified="2017-09-27T06:46:48Z" visited="2017-09-27T06:46:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-27T06:46:48Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/x161REB133/$" added="2017-10-04T11:50:12Z" modified="2017-10-04T11:50:12Z" visited="2017-10-04T11:50:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-04T11:50:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/x161REB133/public_html/editingExrecise.html" added="2017-10-04T12:16:15Z" modified="2017-10-04T16:11:56Z" visited="2017-10-04T12:16:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-04T16:11:56Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/x161REB133/public_html/editingExercise.html" added="2017-10-04T12:43:39Z" modified="2017-10-04T16:28:33Z" visited="2017-10-04T12:43:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-04T16:28:33Z" count="13"/>
         </bookmark:applications>
       </metadata>
     </info>

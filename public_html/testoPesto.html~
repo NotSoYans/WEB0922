@@ -7,14 +7,22 @@
   </head>
   <body>
     <nav>
-      <a href="/public_html/">Home</a>
+      <a href="index.html">Home</a>
       <a href="aboutMe.html">About Me</a>
     </nav>
     <br />
     <h1>TE5T0 P35T0</h1>
-    <p>This is a test page for random ass bull...
+    <p>
+      This is a test page for random ass bull...
       <br />Main page should look nice, this stuff...
       <br /><em>NOT SO MUCH ;)</em>
     </p>
+    <br />
+    <p>
+      <em>Well, actually..</em><br />
+      The thing does not <em>have</em> to be only about Web experiments and shit, since I don't particularly <del>care</del> can be bothered to just stick with one thing at a time and am interested in other crap.
+    </p>
+    <p>
+      For example, <a href="/public_html/editingExercise.html">this stuff</a>.
   </body>
 </html>
