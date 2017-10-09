@@ -1,5 +1,20 @@
 #!/bin/bash
+HISTFILE=~/.bash_history
+set -o history
+
+commitStamp () 
+{
+	date +"%Y%m%d_%H_%M"
+}
+
+histStamp () 
+{
+	date +"%Y%m%d"
+}
+
+history > ./histDump/history_$(histStamp).txt
+
 git config --global user.email yanson.jm@gmail.com
 git add .
-git commit -m "20171008_13_00"
+git commit -m "$(commitStamp)"
 git push origin master

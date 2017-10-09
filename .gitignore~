@@ -1,0 +1,12 @@
+# .gitignore
+
+.bash*
+.profile
+.Xauthority
+.mozilla
+.local
+.idlerc
+.dbus
+.config
+.cache
+

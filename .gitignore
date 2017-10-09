@@ -1,0 +1,17 @@
+# .gitignore
+
+.bash*
+.profile
+.Xauthority
+.mozilla
+.local
+.idlerc
+.dbus
+.config
+.cache
+.virtualenvs
+.local
+.idlerc
+.gvfs
+.gnome2
+Desktop

@@ -285,3 +285,21 @@ gitUL
 ../gitUL
 gedit $
 gedit &
+history > history_08102017_12_57.txt
+ls
+cd history_dumps
+ls
+cd ../
+mv history_08102017_12_57.txt ./history_dumps/history_20171008.txt
+cd history_dumps
+ls
+cd ../
+gedit gitUL
+gitUL
+$Path
+$PATH
+echo $PATH
+pwd
+PATH=$PATH:/home/x161REB133
+echo $PATH
+gitUL

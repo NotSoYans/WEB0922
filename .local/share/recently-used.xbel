@@ -66,7 +66,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/x161REB133/gitUL" added="2017-09-26T10:08:00Z" modified="2017-10-08T10:01:02Z" visited="2017-09-26T10:08:01Z">
+  <bookmark href="file:///home/x161REB133/gitUL" added="2017-09-26T10:08:00Z" modified="2017-10-09T22:36:59Z" visited="2017-09-26T10:08:01Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-shellscript"/>
@@ -74,7 +74,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-08T10:01:02Z" count="7"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-09T22:36:59Z" count="9"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -144,7 +144,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/x161REB133/gitDL" added="2017-09-27T06:46:48Z" modified="2017-09-27T06:46:48Z" visited="2017-09-27T06:46:48Z">
+  <bookmark href="file:///home/x161REB133/gitDL" added="2017-09-27T06:46:48Z" modified="2017-10-09T20:33:39Z" visited="2017-09-27T06:46:48Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-shellscript"/>
@@ -152,7 +152,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-27T06:46:48Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-09T20:33:39Z" count="6"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -192,6 +192,19 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-04T16:28:33Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/x161REB133/.gitignore" added="2017-10-09T20:36:25Z" modified="2017-10-09T20:56:03Z" visited="2017-10-09T20:36:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-09T20:56:03Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
