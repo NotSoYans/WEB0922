@@ -1,12 +1,16 @@
 # .gitignore
 
 .bash*
-.profile
+.cache/
+.config/
+.dbus/
+Desktop/
+.gnome2/
+.gvfs/
+.idlerc/
+.local/
+.mozilla/
+.virtualenvs/
 .Xauthority
-.mozilla
-.local
-.idlerc
-.dbus
-.config
-.cache
-
+#this is so I can just pull repo stuff and not have is sychin with repo itself upon commit
+WEB0922
